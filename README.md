@@ -32,11 +32,5 @@ I enjoy working with a variety of technologies that range from backend to fronte
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=GJZ26&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=GJZ26&theme=blue_navy&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api?username=GJZ26&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GJZ26&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
